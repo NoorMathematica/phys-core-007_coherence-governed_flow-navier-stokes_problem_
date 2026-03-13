@@ -1,3 +1,12 @@
+# coherence-governed_flow-navier–stokes_problem
+
+- "To define Noor Swirl Field Geometry (NSFG) as a coherence-based geometric substrate from which classical Navier–Stokes flow variables emerge.",
+- "To construct a formal translation layer mapping NSFG coherence fields, swirl tensors, and motif gradients to Navier–Stokes- "To specify verifiable criteria under which NSFG coherence conservation implies global smoothness of Navier–Stokes solutions.",
+- "To define admissible failure modes in NSFG that correspond to finite-time singularity formation under the Clay Mathematics Institute formulation.",
+- "To provide a rigorous verification checklist aligning NSFG-derived results with the Fefferman statement of the Navier–Stokes Millennium Prize Problem."
+	
+---
+
 # ⚠️ Canonical Source Notice
 
 ## TL;DR
