@@ -25,6 +25,10 @@ Or use the BibTeX Citation:
   note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-007_coherence-governed_flow-navier-stokes_problem_/refs/heads/main/phys-core-007_coherence-governed_flow-navier%E2%80%93stokes_problem.JSON},
 }
 ```
+
+---
+
+XREF of work and references avalible [here](https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json)  
 	
 ---
 
