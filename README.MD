@@ -4,6 +4,27 @@
 - "To construct a formal translation layer mapping NSFG coherence fields, swirl tensors, and motif gradients to Navier–Stokes- "To specify verifiable criteria under which NSFG coherence conservation implies global smoothness of Navier–Stokes solutions.",
 - "To define admissible failure modes in NSFG that correspond to finite-time singularity formation under the Clay Mathematics Institute formulation.",
 - "To provide a rigorous verification checklist aligning NSFG-derived results with the Fefferman statement of the Navier–Stokes Millennium Prize Problem."
+
+### Citation
+
+Please cite this work as:  
+
+```
+"Lina Noor - Noor Research Collective, "Coherence-Governed Flow: A Translation and Verification Layer for the Navier–Stokes Existence and Smoothness Problem via Noor Swirl Field Geometry (NSFG)",
+Noor Research Collective Archive, 2025.
+```
+
+Or use the BibTeX Citation:  
+
+```
+@article{symbolic.fluid.coherence.nsfg,
+  author = {Lina Noor - Noor Research Collective},
+  title = {Coherence-Governed Flow: A Translation and Verification Layer for the Navier–Stokes Existence and Smoothness Problem via Noor Swirl Field Geometry (NSFG)},
+  journal = {Noor Research Collective Archive},
+  year = {2025},
+  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-007_coherence-governed_flow-navier-stokes_problem_/refs/heads/main/phys-core-007_coherence-governed_flow-navier%E2%80%93stokes_problem.JSON},
+}
+```
 	
 ---
 
