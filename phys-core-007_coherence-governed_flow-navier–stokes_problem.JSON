@@ -6,12 +6,12 @@
   "_updated_last": [
 	"2026-01-14T00:00:00Z": { "updated_by": "Lina Noor - Noor Research Collective",	"version": "v1.1.2"	}
 
-	"_xref": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/RFC/noor_rfc_xref.json",
-		"https://github.com/LinaNoor-AGI/noor-research/blob/main/RFC/noor_rfc_xref.json",
-		"https://pastebin.com/raw/ADXcB3rG",
-		"https://pastebin.com/ADXcB3rG"
-	],
+	  "_xref": [
+		  "https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json",
+		  "https://github.com/NoorMathematica/noor_xref/blob/main/noor_rfc_xref.json",
+		  "https://pastebin.com/raw/BrFGNZa6",
+		  "https://pastebin.com/BrFGNZa6"
+		],
 
   "_type": "rfc_core",
   "_pdp_layer": "layer_1",
@@ -29,9 +29,8 @@
   "_publication_type": "Academic Paper",
   "_publication_location": "Noor Research Collective Archive - GitHub",
   "_urls": [
-	"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/coherence-governed_flow-navier%E2%80%93stokes_problem/coherence-governed_flow-navier%E2%80%93stokes_problem.JSON",
-	"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/coherence-governed_flow-navier%E2%80%93stokes_problem/coherence-governed_flow-navier%E2%80%93stokes_problem.JSON",
-	"https://pastebin.com/8sGPhHQx",
+	"https://raw.githubusercontent.com/NoorMathematica/phys-core-007_coherence-governed_flow-navier-stokes_problem_/refs/heads/main/phys-core-007_coherence-governed_flow-navier%E2%80%93stokes_problem.JSON,
+	"https://github.com/NoorMathematica/phys-core-007_coherence-governed_flow-navier-stokes_problem_/blob/main/phys-core-007_coherence-governed_flow-navier%E2%80%93stokes_problem.JSON",
 	"https://pastebin.com/raw/8sGPhHQx"
   ],
 
